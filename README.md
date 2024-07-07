@@ -1,8 +1,11 @@
 # Maximo Gabriel Dhios
 
 **Phone number: +54 11 2387-2084**
+
 **Email: maxidhios@gmail.com**
+
 **Address Buenos Aires / Argentina**
+
 **Nationality: Argentinian**
 
 ### About myself:

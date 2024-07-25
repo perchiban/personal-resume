@@ -4,19 +4,21 @@
 
 **Email: maxidhios@gmail.com**
 
-**Address Buenos Aires / Argentina**
+**Address: Buenos Aires / Argentina**
 
 **Nationality: Argentinian**
 
+[GitHub Profile](https://github.com/perchiban)
+
 ### About myself:
 
-I have 3 years of development experience, with different levels of involvement, from freelancer on personal projects to integrating web applications and/or services on the cloud.
+I have 2 years of development experience, with different levels of involvement, from freelancer on personal projects to integrating web applications and/or services on the cloud.
 I consider myself to have experience in virtualization and cloud development and i am passionate about implementing and solving important problems.
 I enjoy the continually present learning curve, always seeking to expand my knowledge and skills to stay on top of technological trends.
 
 ### Professional Experience:
 
-January 2021 - February 2022
+January 2021 - February 2023
 Software Developer
 Muyweb.com 
 As a Full Stack Developer at Muyweb.com, i spearheaded the development of cutting-edge web applications using NestJS and ReactJS. Leveraging these technologies, I designed and implemented robust, scalable solutions that met the dynamic needs of our clients.
@@ -32,7 +34,7 @@ As a Full Stack Developer at Muyweb.com, i spearheaded the development of cuttin
 - Backend: NestJS, Node.js, Express.js
 - Frontend: ReactJS, Redux, HTML5, CSS
 - Database: PostgreSQL, MongoDB, AWS RDS
-- Cloud Services: AWS EC2, S3, RDS, Lambda, IAM
+- Cloud Services: AWS EC2, S3, RDS, IAM
 - DevOps: Docker, Git
 
 ### Freelance Experience:
